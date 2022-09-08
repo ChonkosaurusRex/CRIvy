@@ -118,7 +118,6 @@ Array methods
    array_methods/einops_repeat.rst
    array_methods/to_numpy.rst
    array_methods/to_list.rst
-   array_methods/supports_inplace.rst
    array_methods/inplace_decrement.rst
    array_methods/stable_divide.rst
    array_methods/clip_vector_norm.rst
